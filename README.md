@@ -3,7 +3,7 @@
 ## 목록
 
 ### 뭐해먹지 API
-- [**링크 ↓**](https://github.com/KNUT-Mohaemookji/main/tree/main/src)
+- [**링크 ↓**](https://github.com/KNUT-Mohaemookji/mohaemookji/tree/main/api)
 ```
 - 요리 리스트 정리
 - 유튜브 검색 데이터를 요청
